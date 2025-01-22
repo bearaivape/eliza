@@ -1,12 +1,12 @@
 # BearAI Powered By Eliza 🤖
 
 <div align="center">
-  <img src="https://pictr.com/images/2025/01/22/xpdtTg.pn)" alt="Eliza Banner" width="100%" />
+  <img src="https://pictr.com/images/2025/01/22/xpdtTg.pn" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
 
-📑 [Technical Report](https://arxiv.org/pdf/2501.06781) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+🌍 [Website](https://bearai.club/) |  📑 [Technical Report](https://arxiv.org/pdf/2501.06781) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
 
 </div>
 
