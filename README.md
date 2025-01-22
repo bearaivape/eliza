@@ -1,7 +1,7 @@
-# Eliza 🤖
+# BearAI Powered By Eliza 🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="https://pictr.com/images/2025/01/22/xpdtTg.pn)" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -9,6 +9,43 @@
 📑 [Technical Report](https://arxiv.org/pdf/2501.06781) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
 
 </div>
+
+## BearAI: A Web3 Vape-to-Earn Lifestyle Platform Revolutionizing Health Therapy
+
+## 1. Introduction
+
+The quit smoking industry faces a significant challenge: helping individuals successfully reduce or eliminate their reliance on nicotine. Traditional methods often lack the personalized support and engagement necessary for long-term success. BearAI aims to address this challenge by introducing a revolutionary approach: a web3 vape-to-earn lifestyle platform that leverages AI technology to provide personalized health therapy directly on the vape device.
+
+## 2. The BearAI Vision
+
+BearAI envisions a future where quitting smoking is not just a struggle, but a rewarding journey guided by intelligent support. At the core of this vision lies BearAI, an innovative AI Agent designed to be an integral part of the vaping experience.
+
+## 3. The BearAI AI Agent: Your Personalized Health Companion
+
+Intelligent Guidance: BearAI acts as a virtual health therapist, providing real-time feedback and encouragement on your vaping habits.
+
+Personalized Insights: By analyzing your vaping patterns, BearAI learns your individual tendencies and offers tailored advice and support specifically designed to help you reduce or quit vaping.
+
+Interactive Health Monitoring: BearAI seamlessly integrates with your vape device to track your vaping frequency and intensity. This data-driven approach provides valuable insights into your habits, enabling you to make informed decisions and stay on track with your health goals.
+
+## 4. Key Features and Benefits
+
+Genesis Vape & Liquid Pods Airdrop: Holding a specific number of $BAPE tokens grants you exclusive access to airdrops of the latest BearAI-branded vape devices and liquid pods. This provides early access to cutting-edge technology and premium products.
+AI-Customized Health Solutions: $BAPE tokens unlock a suite of AI-powered health solutions tailored to your individual needs. BearAI leverages your preferences and vaping data to create personalized health programs and recommendations, ensuring a truly customized experience.
+
+## 5. The $BAPE Token
+
+The $BAPE token serves as the cornerstone of the BearAI ecosystem. It provides access to exclusive benefits, including:
+
+Genesis Device & Pod Airdrops: Gain early access to the latest BearAI-branded vape devices and liquid pods.
+
+Premium AI-Powered Health Solutions: Unlock personalized health programs, recommendations, and support from the BearAI AI Agent.
+
+Governance and Community Participation: $BAPE token holders may have the opportunity to participate in governance decisions related to the future development of the BearAI platform.
+
+## 6. Conclusion
+
+BearAI represents a significant advancement in the quit smoking industry. By combining cutting-edge AI technology with a user-centric approach, BearAI empowers individuals with the tools and support they need to achieve their health goals. The innovative use of web3 technology, including the $BAPE token, creates a unique and rewarding ecosystem that incentivizes healthy behaviors and fosters a strong community of users.
 
 ## 🌍 README Translations
 
