@@ -1,7 +1,7 @@
 # BearAI Powered By Eliza 🤖
 
 <div align="center">
-  <img src="https://pictr.com/images/2025/01/22/xpdtTg.pn" alt="Eliza Banner" width="100%" />
+  <img src="https://pictr.com/images/2025/01/22/xpdtTg.png" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
